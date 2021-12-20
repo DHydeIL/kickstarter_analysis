@@ -19,14 +19,14 @@ While I did not encounter any challenges while compiling this analysis, I can im
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 	Firstly, I can conclude that there is a higher rate of successful Theater campaigns when they are launched during May, June, and July. I can also conclude that the launch date has no meaningful effect on the rate of canceled theater campaigns.
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**
 	I can conclude that plays with a goal of $15,000 or less are more likely to succeed than plays with higher funding goals. In the [Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png) chart, there is spike in the rate of successful campaigns between $35,000 and $45,000, but if you examine the [table](Resources/Outcomes_v_Goals_Table.PNG) showing the total numbers, you can see that the total number of campaigns within that goal range is only 9. Therefore, I believe that data is too unreliable to act upon.
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**
 	The most obvious limitation of this dataset to me is the lack of any data concerning the marketing of the crowdfunding campaigns. Since the premise of a crowdfunding campaign is to ask interested people to invest their money into your project, then exposing your campaign to greater numbers of people should increase your chances of finding interested investors. Data describing the reach of the campaigns across various social medias, as well as any initial expendatures on marketing for campaigns would provide a more indepth look into what factors help a campaign succeed.
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**
 	Other possible tables that we could create include a table that compares the backer counts to both "staff pick" and "spotlight" status to see if either of these variables had a meaningful influence on the number of people who supported a campaign. We could also create bar graphs showing the average backer counts and average donations per category.
